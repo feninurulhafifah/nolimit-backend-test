@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1a03444-6306-4dc9-a26f-9fe08e013a24" />
+
+
 ## Getting Started
 
 1. Clone the repository
