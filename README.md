@@ -2,12 +2,17 @@
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/feninurulhafifah/nolimit-backend-test
    cd nolimit-backend-test
-
-   
-3. Jalankan npm install untuk memasang semua dependensi.
-4. Buat database kosong bernama nolimit_blog di MySQL local.
-5. Salin file .env.example menjadi .env lalu sesuaikan kredensial database (host, user, pass, port) di lokal Anda.
-6. Jalankan perintah "npm run dev" untuk menjalankan server (tabel database akan otomatis dibuat oleh Sequelize).
-7. Jalankan perintah "npm test" untuk menjalankan seluruh rangkaian unit testing.
+3. Install dependencies
+   ```bash
+   npm install
+4. Copy the .env.example file to .env
+   ```bash
+   cp .env.example .env
+5. Run the Application
+   ```bash
+   npm run dev
+6. Run unit test
+   ```bash
+   npm test
