@@ -1,6 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1a03444-6306-4dc9-a26f-9fe08e013a24" />
-
-
 ## Getting Started
 
 1. Clone the repository
@@ -23,3 +20,20 @@
 7. Run unit test
    ```bash
    npm test
+
+   ## 📸 Application Screenshots
+
+### 1. Unit Testing Results (Jest & Supertest)
+![Unit Test](<img width="443" height="353" alt="image" src="https://github.com/user-attachments/assets/c356ae3b-0aee-452f-aa88-8b0767096c68" />
+)
+
+### 2. Server & Database Synchronization
+![Server Running](<img width="314" height="166" alt="image" src="https://github.com/user-attachments/assets/8d0f9b90-11c9-47f1-af49-80e7d9801302" />
+)
+
+### 3. User Login & JWT Token Generation
+![User Login](<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/e8a31692-dcaa-44f5-b101-9f3b61164dcd" />
+)
+
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/eaddb555-cd59-403c-a072-413120562073" />
+
