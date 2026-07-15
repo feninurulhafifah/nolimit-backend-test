@@ -8,7 +8,6 @@
    ```bash
    npm install
 4. Create a Local Database
-   * Open your MySQL client (Terminal, phpMyAdmin, DBeaver, or Laragon) and execute the following command to create an empty database:
      ```sql
      CREATE DATABASE nolimit_blog;
      ```
